@@ -15,9 +15,9 @@
     "shavite",
     "fugue"
   ],
-  "homepage": "https://github.com/blinkhash/foundation-multi-hashing",
+  "homepage": "https://github.com/BlackPeter13/foundation-v1-multi-hashing",
   "bugs": {
-    "url": "https://github.com/blinkhash/foundation-multi-hashing/issues"
+    "url": "https://github.com/BlackPeter13/foundation-v1-multi-hashing/issues"
   },
   "license": "GPL-2.0",
   "author": {
@@ -33,13 +33,13 @@
   "contributors": [],
   "repository": {
     "type": "git",
-    "url": "https://github.com/blinkhash/foundation-multi-hashing.git"
+    "url": "https://github.com/BlackPeter13/foundation-v1-multi-hashing.git"
   },
   "dependencies": {
     "bindings": "^1.3.0",
-    "libsodium": "^0.7.3",
-    "nan": "^2.15.0",
-    "node-gyp": "^9.0.0"
+    "libsodium": "^0.7.15",
+    "nan": "^2.20.0",
+    "node-gyp": "^10.0.0"
   },
   "devDependencies": {
     "cmake-js": "^6.3.0",
